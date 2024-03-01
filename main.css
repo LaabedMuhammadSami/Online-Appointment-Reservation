@@ -1,0 +1,6 @@
+table, tr, th, td, caption
+{
+    border: 1px;
+    border-collapse: collapse;
+    padding: .5rem;
+}
